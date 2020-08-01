@@ -1,0 +1,46 @@
+Initiate
+Apprentice
+Padawan
+Knight
+Senior Knight
+Junior Guardian
+Guardian
+Senior Guardian
+Junior Consular
+Consular
+Senior Consular
+Agent
+Adept
+Scout
+Sentry
+Scholar
+Healer
+Envoy
+Umbra
+Fighter
+Operator
+Watcher
+Archivist
+Mender
+Emissary
+Shade
+Shadow
+Blade Warrior
+Ace
+Peacerkeeper
+Historian
+Sage
+Ambassador
+Spectre
+Champion
+Specialist
+Warder
+Curator
+Chief Sage
+Magistrate
+Battle Master
+Force Master
+Master
+Paladin
+Exarch
+Head Lorekeeper

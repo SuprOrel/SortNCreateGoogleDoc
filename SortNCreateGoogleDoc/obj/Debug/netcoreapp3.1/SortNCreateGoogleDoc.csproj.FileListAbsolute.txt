@@ -1,0 +1,13 @@
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.exe
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.deps.json
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.runtimeconfig.json
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.runtimeconfig.dev.json
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.dll
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\bin\Debug\netcoreapp3.1\SortNCreateGoogleDoc.pdb
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.csprojAssemblyReference.cache
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.AssemblyInfoInputs.cache
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.AssemblyInfo.cs
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.csproj.CoreCompileInputs.cache
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.dll
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.pdb
+C:\Users\Light\source\repos\SortNCreateGoogleDoc\SortNCreateGoogleDoc\obj\Debug\netcoreapp3.1\SortNCreateGoogleDoc.genruntimeconfig.cache
